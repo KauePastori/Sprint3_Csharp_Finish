@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Nome": "Ana Souza",
+    "Idade": 29,
+    "FrequenciaSemanal": 5,
+    "TempoMedioSessaoMin": 130,
+    "PerdasUltimoMes": 1200,
+    "SinaisAlerta": "Joga de madrugada; irritação após perdas",
+    "NivelRisco": "",
+    "Recomendacao": "",
+    "DataUltimaAvaliacao": "2025-09-21"
+  },
+  {
+    "Id": 0,
+    "Nome": "Carlos Lima",
+    "Idade": 41,
+    "FrequenciaSemanal": 3,
+    "TempoMedioSessaoMin": 90,
+    "PerdasUltimoMes": 450,
+    "SinaisAlerta": "Atraso em contas",
+    "NivelRisco": "",
+    "Recomendacao": "",
+    "DataUltimaAvaliacao": "2025-09-21"
+  }
+]

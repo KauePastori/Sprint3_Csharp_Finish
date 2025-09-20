@@ -1,16 +1,16 @@
 using System;
 using System.Windows.Forms;
 
-namespace StudentsApp
+namespace Sprint3WinForms
 {
+    /// <summary>Ponto de entrada.</summary>
     internal static class Program
     {
         [STAThread]
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Infrastructure.Database.EnsureCreated();
-            Application.Run(new UI.MainForm());
+            Application.Run(new MainForm());
         }
     }
 }
