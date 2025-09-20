@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 159.9,
+    "publishedOn": "2008-08-11"
+  },
+  {
+    "id": 0,
+    "title": "Domain-Driven Design",
+    "author": "Eric Evans",
+    "price": 199.9,
+    "publishedOn": "2003-08-30"
+  }
+]
