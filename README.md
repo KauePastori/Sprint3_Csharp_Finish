@@ -179,3 +179,9 @@ Para publicar (x64): dotnet publish -c Release -r win-x64
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 Dúvidas / melhorias? Abra uma issue ou me envie uma mensagem.
+
+Kauê Pastori Teixeira
+Nicolas Nogueira Boni
+Enzo Sartorelli
+Eduardo Nistal
+Rodrigo Viana
